@@ -1,0 +1,1017 @@
+{
+  "texts": [
+    {
+      "id": "mini-story",
+      "title": "咖啡店的小故事",
+      "description": "Short reading sample for sentence-by-sentence review.",
+      "tags": [
+        "story",
+        "beginner"
+      ],
+      "lines": [
+        {
+          "hanzi": "今天我去一家安静的咖啡店。",
+          "pinyin": "jin tian wo qu yi jia an jing de ka fei dian",
+          "translation": "Today I went to a quiet cafe."
+        },
+        {
+          "hanzi": "我一边听音乐，一边看中文书。",
+          "pinyin": "wo yi bian ting yin yue, yi bian kan zhong wen shu",
+          "translation": "I listened to music while reading a Chinese book."
+        },
+        {
+          "hanzi": "如果我不懂一个词，我就记下来做成卡片。",
+          "pinyin": "ru guo wo bu dong yi ge ci, wo jiu ji xia lai zuo cheng ka pian",
+          "translation": "If I do not understand a word, I write it down and turn it into a card."
+        }
+      ]
+    },
+    {
+      "id": "moon-heart",
+      "title": "月亮代表我的心",
+      "description": "Sample lyric excerpt. Replace or extend this with your own song text.",
+      "tags": [
+        "lyrics",
+        "classic"
+      ],
+      "lines": [
+        {
+          "hanzi": "你问我爱你有多深",
+          "pinyin": "ni wen wo ai ni you duo shen",
+          "translation": "You ask me how deep my love for you is"
+        },
+        {
+          "hanzi": "我爱你有几分",
+          "pinyin": "wo ai ni you ji fen",
+          "translation": "How much I love you"
+        },
+        {
+          "hanzi": "我的情也真",
+          "pinyin": "wo de qing ye zhen",
+          "translation": "My feelings are true too"
+        },
+        {
+          "hanzi": "我的爱也真",
+          "pinyin": "wo de ai ye zhen",
+          "translation": "My love is true as well"
+        }
+      ]
+    },
+    {
+      "id": "zhao-lei-qian-fu-qin-de-hua",
+      "title": "欠父亲的话",
+      "description": "Lyric entry with accurate pinyin and faithful translation.",
+      "tags": [
+        "lyrics",
+        "mandarin",
+        "zhao lei"
+      ],
+      "lines": [
+        {
+          "hanzi": "現在才聽懂 你的冷漠是言不由衷",
+          "pinyin": "xian zai cai ting dong ni de leng mo shi yan bu you zhong",
+          "translation": "Only now do I understand your coldness was not what you truly meant"
+        },
+        {
+          "hanzi": "是不是最偉大的愛 都安靜無聲",
+          "pinyin": "shi bu shi zui wei da de ai dou an jing wu sheng",
+          "translation": "Is it that the greatest love is always silent"
+        },
+        {
+          "hanzi": "偷嘗你的煙 卻沒嘗過你的苦",
+          "pinyin": "tou chang ni de yan que mei chang guo ni de ku",
+          "translation": "I secretly tried your cigarettes, but never tasted your hardships"
+        },
+        {
+          "hanzi": "根本沒想過感受 你喜怒哀愁",
+          "pinyin": "gen ben mei xiang guo gan shou ni xi nu ai chou",
+          "translation": "I never truly thought about your feelings—your joy, anger, sorrow, and worries"
+        },
+        {
+          "hanzi": "稜角磨平後 他們說我越來越像你",
+          "pinyin": "leng jiao mo ping hou ta men shuo wo yue lai yue xiang ni",
+          "translation": "After my rough edges were worn down, they say I’ve become more like you"
+        },
+        {
+          "hanzi": "那個最倔強的脾氣 你略勝一籌",
+          "pinyin": "na ge zui jue jiang de pi qi ni lue sheng yi chou",
+          "translation": "But when it comes to stubbornness, you still surpass me"
+        },
+        {
+          "hanzi": "時間不能靜止停留 讓歲月回頭",
+          "pinyin": "shi jian bu neng jing zhi ting liu rang sui yue hui tou",
+          "translation": "Time cannot stop or turn the years back"
+        },
+        {
+          "hanzi": "不會去等 我變成熟",
+          "pinyin": "bu hui qu deng wo bian cheng shu",
+          "translation": "It won’t wait for me to grow mature"
+        },
+        {
+          "hanzi": "忘了從甚麼時候",
+          "pinyin": "wang le cong shen me shi hou",
+          "translation": "I’ve forgotten since when"
+        },
+        {
+          "hanzi": "分離開始比相聚要久",
+          "pinyin": "fen li kai shi bi xiang ju yao jiu",
+          "translation": "Being apart has lasted longer than being together"
+        },
+        {
+          "hanzi": "所以能好好問候 不要等",
+          "pinyin": "suo yi neng hao hao wen hou bu yao deng",
+          "translation": "So if you can check in, don’t wait"
+        },
+        {
+          "hanzi": "只能靠思念解憂",
+          "pinyin": "zhi neng kao si nian jie you",
+          "translation": "Otherwise, only longing can ease the sorrow"
+        },
+        {
+          "hanzi": "閉上眼睛回味 能想到的回憶很舊",
+          "pinyin": "bi shang yan jing hui wei neng xiang dao de hui yi hen jiu",
+          "translation": "Closing my eyes to reminisce, the memories that come are already old"
+        },
+        {
+          "hanzi": "從小時候 到長大以後",
+          "pinyin": "cong xiao shi hou dao zhang da yi hou",
+          "translation": "From childhood to adulthood"
+        },
+        {
+          "hanzi": "人生有太多路口",
+          "pinyin": "ren sheng you tai duo lu kou",
+          "translation": "Life has too many crossroads"
+        },
+        {
+          "hanzi": "太多的人忘了看身後",
+          "pinyin": "tai duo de ren wang le kan shen hou",
+          "translation": "Too many people forget to look back"
+        },
+        {
+          "hanzi": "開始所有的淚流",
+          "pinyin": "kai shi suo you de lei liu",
+          "translation": "And all the tears begin to flow"
+        },
+        {
+          "hanzi": "不會再 為疼痛只為內疚",
+          "pinyin": "bu hui zai wei teng tong zhi wei nei jiu",
+          "translation": "No longer just for pain, but for guilt"
+        },
+        {
+          "hanzi": "聞著熟悉煙味在空中漂浮很久",
+          "pinyin": "wen zhe shu xi yan wei zai kong zhong piao fu hen jiu",
+          "translation": "The familiar smell of smoke lingers in the air for a long time"
+        },
+        {
+          "hanzi": "所有的虧欠 真的對不起",
+          "pinyin": "suo you de kui qian zhen de dui bu qi",
+          "translation": "For everything I owe you, I’m truly sorry"
+        },
+        {
+          "hanzi": "再也來不及",
+          "pinyin": "zai ye lai bu ji",
+          "translation": "It’s too late now"
+        },
+        {
+          "hanzi": "爸我好想你",
+          "pinyin": "ba wo hao xiang ni",
+          "translation": "Dad, I miss you so much"
+        }
+      ]
+    },
+    {
+      "id": "zhao-lei-nan-fang-de-gu-niang",
+      "title": "南方姑娘",
+      "description": "Lyric entry with pinyin and English translation.",
+      "tags": [
+        "lyrics",
+        "mandarin",
+        "zhao lei"
+      ],
+      "lines": [
+        {
+          "hanzi": "北方的村莊住著一個南方的姑娘",
+          "pinyin": "bei fang de cun zhuang zhu zhe yi ge nan fang de gu niang",
+          "translation": "In a northern village lives a girl from the south"
+        },
+        {
+          "hanzi": "她總是喜歡穿著帶花的裙子站在路旁",
+          "pinyin": "ta zong shi xi huan chuan zhe dai hua de qun zi zhan zai lu pang",
+          "translation": "She always likes to stand by the roadside in a floral dress"
+        },
+        {
+          "hanzi": "她的話不多 但笑起來是那麼平靜優雅",
+          "pinyin": "ta de hua bu duo dan xiao qi lai shi na me ping jing you ya",
+          "translation": "She doesn’t speak much, but her smile is so calm and graceful"
+        },
+        {
+          "hanzi": "她柔弱的眼神裡裝的是什麼? 是思念的憂傷",
+          "pinyin": "ta rou ruo de yan shen li zhuang de shi shen me shi si nian de you shang",
+          "translation": "What is held in her gentle eyes? It is the sorrow of longing"
+        },
+        {
+          "hanzi": "南方的小鎮 陰雨的冬天沒有北方冷",
+          "pinyin": "nan fang de xiao zhen yin yu de dong tian mei you bei fang leng",
+          "translation": "In southern towns, the rainy winters are not as cold as in the north"
+        },
+        {
+          "hanzi": "她不需要臃腫的棉衣去遮蓋她似水的面容",
+          "pinyin": "ta bu xu yao yong zhong de mian yi qu zhe gai ta si shui de mian rong",
+          "translation": "She doesn’t need heavy padded clothes to cover her water-like face"
+        },
+        {
+          "hanzi": "她在來去的街頭留下影子 芳香在回眸人的心頭",
+          "pinyin": "ta zai lai qu de jie tou liu xia ying zi fang xiang zai hui mou ren de xin tou",
+          "translation": "She leaves her shadow in the passing streets, her fragrance lingering in hearts that look back"
+        },
+        {
+          "hanzi": "眨眼的時間 芳香已飄散 影子已不見",
+          "pinyin": "zha yan de shi jian fang xiang yi piao san ying zi yi bu jian",
+          "translation": "In the blink of an eye, the fragrance has drifted away and her shadow is gone"
+        },
+        {
+          "hanzi": "南方姑娘 你是否習慣北方的秋涼?",
+          "pinyin": "nan fang gu niang ni shi fou xi guan bei fang de qiu liang",
+          "translation": "Southern girl, have you gotten used to the cool autumn of the north?"
+        },
+        {
+          "hanzi": "南方姑娘 你是否喜歡北方人的直爽?",
+          "pinyin": "nan fang gu niang ni shi fou xi huan bei fang ren de zhi shuang",
+          "translation": "Southern girl, do you like the straightforwardness of northern people?"
+        },
+        {
+          "hanzi": "日子過的就像那些不眠的晚上",
+          "pinyin": "ri zi guo de jiu xiang na xie bu mian de wan shang",
+          "translation": "Days pass like those sleepless nights"
+        },
+        {
+          "hanzi": "她嚼著口香糖 對牆滿談著理想 耶",
+          "pinyin": "ta jiao zhe kou xiang tang dui qiang man tan zhe li xiang ye",
+          "translation": "She chews gum, talking endlessly to the wall about her dreams, yeah"
+        },
+        {
+          "hanzi": "南方姑娘 我們都在忍受著漫長",
+          "pinyin": "nan fang gu niang wo men dou zai ren shou zhe man chang",
+          "translation": "Southern girl, we are all enduring the long stretch of time"
+        },
+        {
+          "hanzi": "南方姑娘 是不是高樓遮住了你的希望? 誒嘿",
+          "pinyin": "nan fang gu niang shi bu shi gao lou zhe zhu le ni de xi wang ei hei",
+          "translation": "Southern girl, have the tall buildings blocked your hopes?"
+        },
+        {
+          "hanzi": "昨日的雨曾淋漓過她瘦弱的肩膀",
+          "pinyin": "zuo ri de yu ceng lin li guo ta shou ruo de jian bang",
+          "translation": "Yesterday’s rain once drenched her frail shoulders"
+        },
+        {
+          "hanzi": "夜空的北斗也沒有讓她找到迷途的方向",
+          "pinyin": "ye kong de bei dou ye mei you rang ta zhao dao mi tu de fang xiang",
+          "translation": "Even the Big Dipper in the night sky couldn’t guide her lost way"
+        },
+        {
+          "hanzi": "陽光裡 她在院子中央晾曬著衣裳",
+          "pinyin": "yang guang li ta zai yuan zi zhong yang liang shai zhe yi shang",
+          "translation": "In the sunlight, she hangs clothes out to dry in the middle of the yard"
+        },
+        {
+          "hanzi": "在四季的風中 她散著頭髮安慰著時光",
+          "pinyin": "zai si ji de feng zhong ta san zhe tou fa an wei zhe shi guang",
+          "translation": "In the winds of all seasons, her loose hair seems to comfort time itself"
+        },
+        {
+          "hanzi": "南方姑娘 你是否愛上了北方?",
+          "pinyin": "nan fang gu niang ni shi fou ai shang le bei fang",
+          "translation": "Southern girl, have you fallen in love with the north?"
+        },
+        {
+          "hanzi": "南方姑娘 你說今天你就要回到你的家鄉?",
+          "pinyin": "nan fang gu niang ni shuo jin tian ni jiu yao hui dao ni de jia xiang",
+          "translation": "Southern girl, you said you’re going back to your hometown today?"
+        },
+        {
+          "hanzi": "思念讓人心傷 她呼喚著你的淚光",
+          "pinyin": "si nian rang ren xin shang ta hu huan zhe ni de lei guang",
+          "translation": "Longing breaks the heart, calling out the tears in your eyes"
+        },
+        {
+          "hanzi": "南方的果子已熟 那是最簡單的理想 耶嘿",
+          "pinyin": "nan fang de guo zi yi shu na shi zui jian dan de li xiang ye hei",
+          "translation": "The fruits in the south are ripe—that is the simplest dream, yeah hey"
+        },
+        {
+          "hanzi": "南方",
+          "pinyin": "nan fang",
+          "translation": "The south"
+        }
+      ]
+    },
+    {
+      "id": "jay-chou-hui-dao-guo-qu",
+      "title": "回到過去",
+      "description": "Jay Chou - Hui dao guo qu",
+      "tags": [
+        "lyrics",
+        "mandarin",
+        "jay chou"
+      ],
+      "lines": [
+        {
+          "hanzi": "一盞黃黃舊舊的燈 時間在旁悶不吭聲",
+          "pinyin": "yi zhan huang huang jiu jiu de deng shi jian zai pang men bu keng sheng",
+          "translation": "A dim, old yellow lamp, while time stays silent beside it"
+        },
+        {
+          "hanzi": "寂寞下手毫無分寸 不懂得輕重之分",
+          "pinyin": "ji mo xia shou hao wu fen cun bu dong de qing zhong zhi fen",
+          "translation": "Loneliness strikes without restraint, not knowing any sense of measure"
+        },
+        {
+          "hanzi": "沉默支撐躍過陌生 靜靜看著凌晨黃昏",
+          "pinyin": "chen mo zhi cheng yue guo mo sheng jing jing kan zhe ling chen huang hun",
+          "translation": "Silence supports me as I leap over unfamiliarity, quietly watching dawn and dusk"
+        },
+        {
+          "hanzi": "妳的身影 失去平衡 慢慢下沉",
+          "pinyin": "ni de shen ying shi qu ping heng man man xia chen",
+          "translation": "Your silhouette loses balance and slowly sinks"
+        },
+        {
+          "hanzi": "黑暗已在空中盤旋 該往哪我看不見",
+          "pinyin": "hei an yi zai kong zhong pan xuan gai wang na wo kan bu jian",
+          "translation": "Darkness circles in the air; I can’t see where to go"
+        },
+        {
+          "hanzi": "也許愛在夢的另一端",
+          "pinyin": "ye xu ai zai meng de ling yi duan",
+          "translation": "Maybe love exists on the other side of dreams"
+        },
+        {
+          "hanzi": "無法存活在真實的空間",
+          "pinyin": "wu fa cun huo zai zhen shi de kong jian",
+          "translation": "Unable to survive in the real world"
+        },
+        {
+          "hanzi": "想回到過去 試著抱妳在懷裡",
+          "pinyin": "xiang hui dao guo qu shi zhe bao ni zai huai li",
+          "translation": "I want to return to the past, try to hold you in my arms"
+        },
+        {
+          "hanzi": "羞怯的臉帶有一點稚氣",
+          "pinyin": "xiu qie de lian dai you yi dian zhi qi",
+          "translation": "Your shy face still carrying a bit of innocence"
+        },
+        {
+          "hanzi": "想看妳看的世界，想在妳夢的畫面",
+          "pinyin": "xiang kan ni kan de shi jie xiang zai ni meng de hua mian",
+          "translation": "I want to see the world you see, to be inside your dream scenes"
+        },
+        {
+          "hanzi": "只要靠在一起就能感覺甜蜜",
+          "pinyin": "zhi yao kao zai yi qi jiu neng gan jue tian mi",
+          "translation": "Just being close together is enough to feel sweetness"
+        },
+        {
+          "hanzi": "想回到過去 試著讓故事繼續",
+          "pinyin": "xiang hui dao guo qu shi zhe rang gu shi ji xu",
+          "translation": "I want to return to the past and try to let the story continue"
+        },
+        {
+          "hanzi": "至少不再讓妳離我而去",
+          "pinyin": "zhi shao bu zai rang ni li wo er qu",
+          "translation": "At least I wouldn’t let you leave me again"
+        },
+        {
+          "hanzi": "分散時間的注意 這次會抱得更緊",
+          "pinyin": "fen san shi jian de zhu yi zhe ci hui bao de geng jin",
+          "translation": "I’ll distract time this time, and hold you even tighter"
+        },
+        {
+          "hanzi": "這樣挽留不知還來不來得及 想回到過去",
+          "pinyin": "zhe yang wan liu bu zhi hai lai bu lai de ji xiang hui dao guo qu",
+          "translation": "I don’t know if holding on like this is still in time—I want to go back to the past"
+        },
+        {
+          "hanzi": "思緒不斷阻擋著回憶播放",
+          "pinyin": "si xu bu duan zu dang zhe hui yi bo fang",
+          "translation": "My thoughts keep blocking the replay of memories"
+        },
+        {
+          "hanzi": "盲目的追尋仍然空空盪盪",
+          "pinyin": "mang mu de zhui xun reng ran kong kong dang dang",
+          "translation": "Blind searching still leaves me empty"
+        },
+        {
+          "hanzi": "灰濛濛的夜晚睡意又不知躲到哪去",
+          "pinyin": "hui meng meng de ye wan shui yi you bu zhi duo dao na qu",
+          "translation": "On this dim night, sleep has nowhere to be found"
+        },
+        {
+          "hanzi": "一轉身孤單已躺在身旁",
+          "pinyin": "yi zhuan shen gu dan yi tang zai shen pang",
+          "translation": "As I turn around, loneliness is already lying beside me"
+        },
+        {
+          "hanzi": "沉默支撐躍過陌生 靜靜看著凌晨黃昏",
+          "pinyin": "chen mo zhi cheng yue guo mo sheng jing jing kan zhe ling chen huang hun",
+          "translation": "Silence supports me as I cross the unfamiliar, quietly watching dawn and dusk"
+        },
+        {
+          "hanzi": "妳的身影 失去平衡 慢慢下沉",
+          "pinyin": "ni de shen ying shi qu ping heng man man xia chen",
+          "translation": "Your silhouette loses balance and slowly sinks"
+        },
+        {
+          "hanzi": "想回到過去",
+          "pinyin": "xiang hui dao guo qu",
+          "translation": "I want to go back to the past"
+        }
+      ]
+    },
+    {
+      "id": "jay-chou-pu-gong-ying-de-yue-ding",
+      "title": "蒲公英的約定",
+      "description": "Jay Chou - Pu gong ying de yue ding",
+      "tags": [
+        "lyrics",
+        "mandarin",
+        "jay chou"
+      ],
+      "lines": [
+        {
+          "hanzi": "小學籬笆旁的蒲公英",
+          "pinyin": "xiao xue li ba pang de pu gong ying",
+          "translation": "The dandelions by the fence at primary school"
+        },
+        {
+          "hanzi": "是記憶裡有味道的風景",
+          "pinyin": "shi ji yi li you wei dao de feng jing",
+          "translation": "Are a landscape in memory filled with a certain scent"
+        },
+        {
+          "hanzi": "午睡操場傳來蟬的聲音",
+          "pinyin": "wu shui cao chang chuan lai chan de sheng yin",
+          "translation": "From the playground at naptime comes the sound of cicadas"
+        },
+        {
+          "hanzi": "多少年後也還是很好聽",
+          "pinyin": "duo shao nian hou ye hai shi hen hao ting",
+          "translation": "Even many years later, it still sounds beautiful"
+        },
+        {
+          "hanzi": "將願望折紙飛機寄成信",
+          "pinyin": "jiang yuan wang zhe zhi fei ji ji cheng xin",
+          "translation": "Folding wishes into paper planes and sending them like letters"
+        },
+        {
+          "hanzi": "因為我們等不到那流星",
+          "pinyin": "yin wei wo men deng bu dao na liu xing",
+          "translation": "Because we couldn’t wait for that shooting star"
+        },
+        {
+          "hanzi": "認真投決定命運的硬幣",
+          "pinyin": "ren zhen tou jue ding ming yun de ying bi",
+          "translation": "Seriously tossing a coin to decide our fate"
+        },
+        {
+          "hanzi": "卻不知道到底能去哪裡",
+          "pinyin": "que bu zhi dao dao di neng qu na li",
+          "translation": "Yet not knowing where it would actually take us"
+        },
+        {
+          "hanzi": "一起長大的約定 那樣清晰 打過勾的我相信",
+          "pinyin": "yi qi zhang da de yue ding na yang qing xi da guo gou de wo xiang xin",
+          "translation": "The promise we made growing up together was so clear—I believed in it once we checked it off"
+        },
+        {
+          "hanzi": "說好要一起旅行 是妳如今 唯一堅持的任性",
+          "pinyin": "shuo hao yao yi qi lv xing shi ni ru jin wei yi jian chi de ren xing",
+          "translation": "We said we’d travel together—that’s now your only stubborn insistence"
+        },
+        {
+          "hanzi": "在走廊上罰站打手心 我們卻注意窗邊的蜻蜓",
+          "pinyin": "zai zou lang shang fa zhan da shou xin wo men que zhu yi chuang bian de qing ting",
+          "translation": "Standing punished in the hallway, we paid more attention to the dragonflies by the window"
+        },
+        {
+          "hanzi": "我去到哪裡妳都跟很緊 很多的夢在等待著進行",
+          "pinyin": "wo qu dao na li ni dou gen hen jin hen duo de meng zai deng dai zhe jin xing",
+          "translation": "Wherever I went, you followed closely—so many dreams were waiting to unfold"
+        },
+        {
+          "hanzi": "一起長大的約定 那樣清晰 打過勾的我相信",
+          "pinyin": "yi qi zhang da de yue ding na yang qing xi da guo gou de wo xiang xin",
+          "translation": "The promise we made growing up together was so clear—I believed in it once we checked it off"
+        },
+        {
+          "hanzi": "說好要一起旅行 是妳如今 唯一堅持的任性",
+          "pinyin": "shuo hao yao yi qi lv xing shi ni ru jin wei yi jian chi de ren xing",
+          "translation": "We said we’d travel together—that’s now your only stubborn insistence"
+        },
+        {
+          "hanzi": "一起長大的約定 那樣真心 與妳聊不完的曾經",
+          "pinyin": "yi qi zhang da de yue ding na yang zhen xin yu ni liao bu wan de ceng jing",
+          "translation": "The promise we made growing up together was so sincere—with endless memories to talk about with you"
+        },
+        {
+          "hanzi": "而我已經分不清 妳是友情 還是錯過的愛情",
+          "pinyin": "er wo yi jing fen bu qing ni shi you qing hai shi cuo guo de ai qing",
+          "translation": "And now I can’t tell whether you are friendship, or a love that slipped away"
+        }
+      ]
+    },
+    {
+      "id": "li-shu-tong-song-bie",
+      "title": "送别",
+      "description": "Pu shu - Song bie",
+      "tags": [
+        "lyrics",
+        "mandarin",
+        "classic"
+      ],
+      "lines": [
+        {
+          "hanzi": "长亭外",
+          "pinyin": "chang ting wai",
+          "translation": "Outside the long pavilion"
+        },
+        {
+          "hanzi": "古道边",
+          "pinyin": "gu dao bian",
+          "translation": "Beside the ancient road"
+        },
+        {
+          "hanzi": "芳草碧连天",
+          "pinyin": "fang cao bi lian tian",
+          "translation": "Fragrant green grass stretches to the horizon"
+        },
+        {
+          "hanzi": "晚风拂柳笛声残",
+          "pinyin": "wan feng fu liu di sheng can",
+          "translation": "The evening breeze brushes willows, as the flute’s sound fades"
+        },
+        {
+          "hanzi": "夕阳山外山",
+          "pinyin": "xi yang shan wai shan",
+          "translation": "Beyond the mountains, the setting sun sinks"
+        },
+        {
+          "hanzi": "天之涯",
+          "pinyin": "tian zhi ya",
+          "translation": "At the edge of the sky"
+        },
+        {
+          "hanzi": "地之角",
+          "pinyin": "di zhi jiao",
+          "translation": "At the corner of the earth"
+        },
+        {
+          "hanzi": "知交半零落",
+          "pinyin": "zhi jiao ban ling luo",
+          "translation": "Half of my dear friends have drifted apart"
+        },
+        {
+          "hanzi": "一壶浊酒尽余欢",
+          "pinyin": "yi hu zhuo jiu jin yu huan",
+          "translation": "A pot of humble wine drains what little joy remains"
+        },
+        {
+          "hanzi": "今宵别梦寒",
+          "pinyin": "jin xiao bie meng han",
+          "translation": "Tonight, parting dreams feel cold"
+        },
+        {
+          "hanzi": "情千缕 酒一杯 声声喋喋催",
+          "pinyin": "qing qian lü jiu yi bei sheng sheng die die cui",
+          "translation": "A thousand threads of feeling, a cup of wine, words urging again and again"
+        },
+        {
+          "hanzi": "问君此去几时还",
+          "pinyin": "wen jun ci qu ji shi huan",
+          "translation": "I ask you, when will you return from this journey?"
+        },
+        {
+          "hanzi": "来时莫徘徊",
+          "pinyin": "lai shi mo pai huai",
+          "translation": "When you return, do not linger"
+        }
+      ]
+    },
+    {
+      "id": "lin-you-shuo-huang",
+      "title": "我沒有說謊",
+      "description": "Yoga Lin - Shuo Huang",
+      "tags": [
+        "lyrics",
+        "mandarin",
+        "lin you jia"
+      ],
+      "lines": [
+        {
+          "hanzi": "是有過幾個不錯對象 說起來並不寂寞孤單",
+          "pinyin": "shi you guo ji ge bu cuo dui xiang shuo qi lai bing bu ji mo gu dan",
+          "translation": "There were a few good partners before, so I can’t say I’ve been lonely"
+        },
+        {
+          "hanzi": "可能我浪蕩 讓人家不安 才會結果都陣亡",
+          "pinyin": "ke neng wo lang dang rang ren jia bu an cai hui jie guo dou zhen wang",
+          "translation": "Maybe I was too carefree and made people uneasy—that’s why they all ended badly"
+        },
+        {
+          "hanzi": "我沒有什麼陰影魔障 妳千萬不要放在心上",
+          "pinyin": "wo mei you shen me yin ying mo zhang ni qian wan bu yao fang zai xin shang",
+          "translation": "I don’t have any dark baggage, so please don’t take it to heart"
+        },
+        {
+          "hanzi": "我又不脆弱 何況那算什麼傷 反正愛情不就都這樣",
+          "pinyin": "wo you bu cui ruo he kuang na suan shen me shang fan zheng ai qing bu jiu dou zhe yang",
+          "translation": "I’m not fragile anyway, and that barely counts as hurt—love is always like this, isn’t it"
+        },
+        {
+          "hanzi": "我沒有說謊 我何必說謊",
+          "pinyin": "wo mei you shuo huang wo he bi shuo huang",
+          "translation": "I’m not lying—why would I lie?"
+        },
+        {
+          "hanzi": "妳懂我的 我對妳從來就不會假裝",
+          "pinyin": "ni dong wo de wo dui ni cong lai jiu bu hui jia zhuang",
+          "translation": "You understand me—I’ve never pretended with you"
+        },
+        {
+          "hanzi": "我哪有說謊 請別以為妳有多難忘",
+          "pinyin": "wo na you shuo huang qing bie yi wei ni you duo nan wang",
+          "translation": "How am I lying? Don’t think you’re that unforgettable"
+        },
+        {
+          "hanzi": "笑是真的不是我逞強",
+          "pinyin": "xiao shi zhen de bu shi wo cheng qiang",
+          "translation": "My smile is real—I’m not forcing it"
+        },
+        {
+          "hanzi": "我好久沒來這間餐廳 沒想到已經換了裝潢",
+          "pinyin": "wo hao jiu mei lai zhe jian can ting mei xiang dao yi jing huan le zhuang huang",
+          "translation": "I haven’t been to this restaurant in a long time—I didn’t expect it to be renovated"
+        },
+        {
+          "hanzi": "角落那窗口 聞得到玫瑰花香 被妳一說是有些印象",
+          "pinyin": "jiao luo na chuang kou wen de dao mei gui hua xiang bei ni yi shuo shi you xie yin xiang",
+          "translation": "That window in the corner—there’s a scent of roses; now that you mention it, it feels familiar"
+        },
+        {
+          "hanzi": "我沒有說謊 我何必說謊",
+          "pinyin": "wo mei you shuo huang wo he bi shuo huang",
+          "translation": "I’m not lying—why would I lie?"
+        },
+        {
+          "hanzi": "妳知道的 我缺點之一就是很健忘",
+          "pinyin": "ni zhi dao de wo que dian zhi yi jiu shi hen jian wang",
+          "translation": "You know one of my flaws is that I’m forgetful"
+        },
+        {
+          "hanzi": "我哪有說謊 是很感謝今晚的相伴",
+          "pinyin": "wo na you shuo huang shi hen gan xie jin wan de xiang ban",
+          "translation": "How am I lying? I truly appreciate your company tonight"
+        },
+        {
+          "hanzi": "但我竟然有些不習慣",
+          "pinyin": "dan wo jing ran you xie bu xi guan",
+          "translation": "But somehow, it feels a bit unfamiliar"
+        },
+        {
+          "hanzi": "我沒有說謊 我何必說謊",
+          "pinyin": "wo mei you shuo huang wo he bi shuo huang",
+          "translation": "I’m not lying—why would I lie?"
+        },
+        {
+          "hanzi": "愛一個人 沒愛到難道就會怎麼樣",
+          "pinyin": "ai yi ge ren mei ai dao nan dao jiu hui zen me yang",
+          "translation": "If you love someone but it doesn’t work out, what really happens?"
+        },
+        {
+          "hanzi": "別說我說謊 人生已經如此的艱難",
+          "pinyin": "bie shuo wo shuo huang ren sheng yi jing ru ci de jian nan",
+          "translation": "Don’t say I’m lying—life is already hard enough"
+        },
+        {
+          "hanzi": "有些事情就不要拆穿",
+          "pinyin": "you xie shi qing jiu bu yao chai chuan",
+          "translation": "Some things are better left unspoken"
+        },
+        {
+          "hanzi": "我沒有說謊 是愛情說謊",
+          "pinyin": "wo mei you shuo huang shi ai qing shuo huang",
+          "translation": "I’m not lying—it’s love that lies"
+        },
+        {
+          "hanzi": "它帶妳來 騙我說 渴望的有可能有希望",
+          "pinyin": "ta dai ni lai pian wo shuo ke wang de you ke neng you xi wang",
+          "translation": "It brought you to me, deceiving me into believing desire could become hope"
+        },
+        {
+          "hanzi": "我沒有說謊 祝妳做個幸福的新娘",
+          "pinyin": "wo mei you shuo huang zhu ni zuo ge xing fu de xin niang",
+          "translation": "I’m not lying—I wish you to be a happy bride"
+        },
+        {
+          "hanzi": "我的心事請妳就遺忘",
+          "pinyin": "wo de xin shi qing ni jiu yi wang",
+          "translation": "Please just forget what’s in my heart"
+        }
+      ]
+    },
+    {
+      "id": "jay-chou-shuo-hao-bu-ku",
+      "title": "说好不哭",
+      "description": "Jay Chou - Shuo hao bu ku",
+      "tags": [
+        "lyrics",
+        "mandarin",
+        "jay chou"
+      ],
+      "lines": [
+        {
+          "hanzi": "沒有了聯絡 後來的生活",
+          "pinyin": "mei you le lian luo hou lai de sheng huo",
+          "translation": "After we lost contact, in the life that followed"
+        },
+        {
+          "hanzi": "我都是聽別人說",
+          "pinyin": "wo dou shi ting bie ren shuo",
+          "translation": "I only heard about you from others"
+        },
+        {
+          "hanzi": "說妳怎麼了 說妳怎麼過",
+          "pinyin": "shuo ni zen me le shuo ni zen me guo",
+          "translation": "They said how you were, how you’ve been living"
+        },
+        {
+          "hanzi": "放不下的人是我",
+          "pinyin": "fang bu xia de ren shi wo",
+          "translation": "I’m the one who couldn’t let go"
+        },
+        {
+          "hanzi": "人多的時候 就待在角落",
+          "pinyin": "ren duo de shi hou jiu dai zai jiao luo",
+          "translation": "When there are many people, I stay in the corner"
+        },
+        {
+          "hanzi": "就怕別人問起我",
+          "pinyin": "jiu pa bie ren wen qi wo",
+          "translation": "Afraid others might ask about me"
+        },
+        {
+          "hanzi": "你們怎麼了 妳低著頭",
+          "pinyin": "ni men zen me le ni di zhe tou",
+          "translation": "“What happened between you two?”—you lowered your head"
+        },
+        {
+          "hanzi": "護著我連抱怨都沒有",
+          "pinyin": "hu zhe wo lian bao yuan dou mei you",
+          "translation": "Protecting me, without even complaining"
+        },
+        {
+          "hanzi": "電話開始躲 從不對我說",
+          "pinyin": "dian hua kai shi duo cong bu dui wo shuo",
+          "translation": "You started avoiding my calls, never telling me why"
+        },
+        {
+          "hanzi": "不習慣一個人生活",
+          "pinyin": "bu xi guan yi ge ren sheng huo",
+          "translation": "Not used to living alone"
+        },
+        {
+          "hanzi": "離開我以後 要我好好過",
+          "pinyin": "li kai wo yi hou yao wo hao hao guo",
+          "translation": "After leaving me, you told me to live well"
+        },
+        {
+          "hanzi": "怕打擾想自由的我",
+          "pinyin": "pa da rao xiang zi you de wo",
+          "translation": "Afraid of disturbing the me who wanted freedom"
+        },
+        {
+          "hanzi": "都這個時候 妳還在意著",
+          "pinyin": "dou zhe ge shi hou ni hai zai yi zhe",
+          "translation": "Even at a time like this, you still care about"
+        },
+        {
+          "hanzi": "別人是怎麼怎麼看我的",
+          "pinyin": "bie ren shi zen me zen me kan wo de",
+          "translation": "How others see me"
+        },
+        {
+          "hanzi": "拼命解釋著 不是我的錯",
+          "pinyin": "pin ming jie shi zhe bu shi wo de cuo",
+          "translation": "Desperately explaining it wasn’t my fault"
+        },
+        {
+          "hanzi": "是妳要走",
+          "pinyin": "shi ni yao zou",
+          "translation": "That you were the one who chose to leave"
+        },
+        {
+          "hanzi": "眼看著妳難過",
+          "pinyin": "yan kan zhe ni nan guo",
+          "translation": "Watching you in pain"
+        },
+        {
+          "hanzi": "挽留的話卻沒有說",
+          "pinyin": "wan liu de hua que mei you shuo",
+          "translation": "Yet I said nothing to make you stay"
+        },
+        {
+          "hanzi": "妳會微笑放手",
+          "pinyin": "ni hui wei xiao fang shou",
+          "translation": "You would let go with a smile"
+        },
+        {
+          "hanzi": "說好不哭讓我走",
+          "pinyin": "shuo hao bu ku rang wo zou",
+          "translation": "You promised not to cry and let me go"
+        },
+        {
+          "hanzi": "妳什麼都沒有",
+          "pinyin": "ni shen me dou mei you",
+          "translation": "You had nothing"
+        },
+        {
+          "hanzi": "卻還為我的夢加油",
+          "pinyin": "que hai wei wo de meng jia you",
+          "translation": "Yet you still cheered on my dreams"
+        },
+        {
+          "hanzi": "心疼過了多久",
+          "pinyin": "xin teng guo le duo jiu",
+          "translation": "How long has this heartache lasted"
+        },
+        {
+          "hanzi": "還在找理由等我",
+          "pinyin": "hai zai zhao li you deng wo",
+          "translation": "Still finding reasons to wait for me"
+        }
+      ]
+    },
+    {
+      "id": "shen-yi-cheng-yu",
+      "title": "雨",
+      "description": "Shen Yi Cheng - Yu",
+      "tags": [
+        "lyrics",
+        "mandarin",
+        "zhou shen"
+      ],
+      "lines": [
+        {
+          "hanzi": "雨水追 進了窗",
+          "pinyin": "yu shui zhui jin le chuang",
+          "translation": "Rainwater chases its way into the window"
+        },
+        {
+          "hanzi": "潮濕穿在心上",
+          "pinyin": "chao shi chuan zai xin shang",
+          "translation": "Dampness clings to my heart"
+        },
+        {
+          "hanzi": "肆意生長 著流淌",
+          "pinyin": "si yi sheng zhang zhe liu tang",
+          "translation": "It grows wildly, flowing freely"
+        },
+        {
+          "hanzi": "告訴我 要怎麼",
+          "pinyin": "gao su wo yao zen me",
+          "translation": "Tell me, how should I"
+        },
+        {
+          "hanzi": "刻意的藏",
+          "pinyin": "ke yi de cang",
+          "translation": "Deliberately hide it"
+        },
+        {
+          "hanzi": "它不曾說 淅瀝聲作回答",
+          "pinyin": "ta bu ceng shuo xi li sheng zuo hui da",
+          "translation": "It never speaks—the pattering sound answers instead"
+        },
+        {
+          "hanzi": "在昏暗 的世界",
+          "pinyin": "zai hun an de shi jie",
+          "translation": "In this dim world"
+        },
+        {
+          "hanzi": "慢慢的擦",
+          "pinyin": "man man de ca",
+          "translation": "Slowly wiping away"
+        },
+        {
+          "hanzi": "雨劃破過後 留下的疤",
+          "pinyin": "yu hua po guo hou liu xia de ba",
+          "translation": "The scars left after the rain cuts through"
+        },
+        {
+          "hanzi": "把自己 變成個",
+          "pinyin": "ba zi ji bian cheng ge",
+          "translation": "Turning myself into"
+        },
+        {
+          "hanzi": "陌生人",
+          "pinyin": "mo sheng ren",
+          "translation": "A stranger"
+        },
+        {
+          "hanzi": "哭過 就走",
+          "pinyin": "ku guo jiu zou",
+          "translation": "After crying, I just leave"
+        },
+        {
+          "hanzi": "如果大雨落下",
+          "pinyin": "ru guo da yu luo xia",
+          "translation": "If the heavy rain falls"
+        },
+        {
+          "hanzi": "就讓我 成為海洋",
+          "pinyin": "jiu rang wo cheng wei hai yang",
+          "translation": "Then let me become the ocean"
+        },
+        {
+          "hanzi": "那些看似 束縛",
+          "pinyin": "na xie kan si shu fu",
+          "translation": "Those things that seem like restraints"
+        },
+        {
+          "hanzi": "卻關於愛的",
+          "pinyin": "que guan yu ai de",
+          "translation": "Are actually about love"
+        },
+        {
+          "hanzi": "每一朵浪花",
+          "pinyin": "mei yi duo lang hua",
+          "translation": "Every single wave"
+        },
+        {
+          "hanzi": "如果大雨留下",
+          "pinyin": "ru guo da yu liu xia",
+          "translation": "If the heavy rain remains"
+        },
+        {
+          "hanzi": "也許 忘了回家",
+          "pinyin": "ye xu wang le hui jia",
+          "translation": "Maybe I’ll forget to go home"
+        },
+        {
+          "hanzi": "把雨穿在身上",
+          "pinyin": "ba yu chuan zai shen shang",
+          "translation": "Wearing the rain on my body"
+        },
+        {
+          "hanzi": "然後去飛翔",
+          "pinyin": "ran hou qu fei xiang",
+          "translation": "And then go fly"
+        },
+        {
+          "hanzi": "假裝是 翅膀",
+          "pinyin": "jia zhuang shi chi bang",
+          "translation": "Pretending it’s wings"
+        },
+        {
+          "hanzi": "總有個你 讓我長大",
+          "pinyin": "zong you ge ni rang wo zhang da",
+          "translation": "There’s always someone like you who made me grow up"
+        },
+        {
+          "hanzi": "轉身朝著你的方向",
+          "pinyin": "zhuan shen chao zhe ni de fang xiang",
+          "translation": "Turning toward your direction"
+        },
+        {
+          "hanzi": "沒有任何牆能阻擋 這太陽",
+          "pinyin": "mei you ren he qiang neng zu dang zhe tai yang",
+          "translation": "No wall can block this sunlight"
+        },
+        {
+          "hanzi": "如果大雨落下",
+          "pinyin": "ru guo da yu luo xia",
+          "translation": "If the heavy rain falls"
+        },
+        {
+          "hanzi": "那我 成為海洋",
+          "pinyin": "na wo cheng wei hai yang",
+          "translation": "Then I’ll become the ocean"
+        },
+        {
+          "hanzi": "披上你給的光",
+          "pinyin": "pi shang ni gei de guang",
+          "translation": "Wrapped in the light you gave me"
+        },
+        {
+          "hanzi": "再一次飛翔",
+          "pinyin": "zai yi ci fei xiang",
+          "translation": "And fly once again"
+        },
+        {
+          "hanzi": "長出了 翅膀",
+          "pinyin": "zhang chu le chi bang",
+          "translation": "Having grown wings"
+        }
+      ]
+    }
+  ]
+}

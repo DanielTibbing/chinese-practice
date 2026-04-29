@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chinese Learning Studio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&family=Space+Grotesk:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">Client-side Chinese study app</p>
+          <h1>Chinese Learning Studio</h1>
+          <p class="hero-copy">
+            Review flashcards, read lyrics or short texts, and control how much help
+            you see while studying.
+          </p>
+        </div>
+        <div class="hero-card">
+          <p class="hero-card-label">Data source</p>
+          <p class="hero-card-value">Local JSON files</p>
+          <p class="hero-card-meta">No backend. Edit files in <code>data/</code>.</p>
+        </div>
+      </header>
+
+      <nav class="route-nav" aria-label="Feature navigation">
+        <a class="route-link" data-route-link href="#/flashcards">Flashcards</a>
+        <a class="route-link" data-route-link href="#/reading">Reading</a>
+        <a class="route-link" data-route-link href="#/dictionary">Dictionary</a>
+        <a class="route-link" data-route-link href="#/builder">Lyric Builder</a>
+        <a class="route-link" data-route-link href="#/library">Library</a>
+      </nav>
+
+      <main>
+        <section
+          class="panel panel-wide route-panel"
+          data-route-panel="flashcards"
+          aria-labelledby="flashcards-heading"
+        >
+          <div class="panel-header">
+            <div>
+              <p class="section-tag">Training</p>
+              <h2 id="flashcards-heading">Flashcards</h2>
+            </div>
+            <div class="panel-actions">
+              <label class="select-field">
+                <span>Deck</span>
+                <select id="deck-select"></select>
+              </label>
+              <button id="shuffle-cards" class="secondary-button" type="button">
+                Shuffle
+              </button>
+            </div>
+          </div>
+
+          <div id="flashcard-panel" class="flashcard-panel">
+            <button id="flashcard" class="flashcard" type="button" aria-live="polite">
+              <span class="flashcard-face flashcard-front"></span>
+              <span class="flashcard-face flashcard-back"></span>
+            </button>
+
+            <div class="flashcard-controls">
+              <button id="prev-card" class="secondary-button" type="button">Previous</button>
+              <button id="flip-card" class="primary-button" type="button">Flip</button>
+              <button id="next-card" class="secondary-button" type="button">Next</button>
+              <button id="lookup-card" class="secondary-button" type="button">
+                Lookup Card
+              </button>
+            </div>
+
+            <div id="flashcard-meta" class="flashcard-meta"></div>
+          </div>
+        </section>
+
+        <section class="panel route-panel" data-route-panel="reading" aria-labelledby="reader-heading">
+          <div class="panel-header">
+            <div>
+              <p class="section-tag">Reading</p>
+              <h2 id="reader-heading">Texts and Lyrics</h2>
+            </div>
+            <div class="panel-actions stacked-mobile">
+              <label class="select-field">
+                <span>Text</span>
+                <select id="text-select"></select>
+              </label>
+            </div>
+          </div>
+
+          <div class="toggle-group" role="group" aria-label="Text visibility mode">
+            <button class="toggle-button is-active" data-mode="hanzi" type="button">
+              Characters
+            </button>
+            <button class="toggle-button" data-mode="pinyin" type="button">
+              Characters + Pinyin
+            </button>
+            <button class="toggle-button" data-mode="translation" type="button">
+              Full View
+            </button>
+          </div>
+
+          <article class="reader-card">
+            <header class="reader-header">
+              <div>
+                <h3 id="text-title"></h3>
+                <p id="text-description" class="reader-description"></p>
+              </div>
+              <p id="text-tags" class="reader-tags"></p>
+            </header>
+            <div id="text-content" class="text-content"></div>
+          </article>
+        </section>
+
+        <section
+          class="panel route-panel"
+          data-route-panel="dictionary"
+          aria-labelledby="dictionary-heading"
+        >
+          <div class="panel-header">
+            <div>
+              <p class="section-tag">Lookup</p>
+              <h2 id="dictionary-heading">Dictionary</h2>
+            </div>
+          </div>
+
+          <div class="dictionary-toolbar">
+            <label class="search-field" for="dictionary-search">
+              <span>Search by Chinese, pinyin, or English</span>
+              <input
+                id="dictionary-search"
+                type="search"
+                placeholder="Try: 你好, xi huan, heart"
+                autocomplete="off"
+              />
+            </label>
+          </div>
+
+          <div id="dictionary-meta" class="dictionary-meta"></div>
+          <div id="dictionary-results" class="dictionary-results"></div>
+        </section>
+
+        <section
+          class="panel panel-wide route-panel"
+          data-route-panel="builder"
+          aria-labelledby="builder-heading"
+        >
+          <div class="panel-header">
+            <div>
+              <p class="section-tag">Authoring</p>
+              <h2 id="builder-heading">Lyric JSON Builder</h2>
+            </div>
+          </div>
+
+          <div class="builder-grid">
+            <div class="builder-form">
+              <div class="builder-fields">
+                <label class="select-field">
+                  <span>Text ID</span>
+                  <input id="builder-id" type="text" placeholder="jay-chou-qing-tian" />
+                </label>
+                <label class="select-field">
+                  <span>Title</span>
+                  <input id="builder-title" type="text" placeholder="晴天" />
+                </label>
+                <label class="select-field">
+                  <span>Description</span>
+                  <input
+                    id="builder-description"
+                    type="text"
+                    placeholder="Optional note about the song or text"
+                  />
+                </label>
+                <label class="select-field">
+                  <span>Tags</span>
+                  <input
+                    id="builder-tags"
+                    type="text"
+                    placeholder="lyrics, mandopop, jay chou"
+                  />
+                </label>
+              </div>
+
+              <label class="builder-textarea-field" for="builder-lines">
+                <span>Paste lines as `hanzi | pinyin | translation`</span>
+                <textarea
+                  id="builder-lines"
+                  rows="12"
+                  placeholder="故事的小黄花 | gu shi de xiao huang hua | The little yellow flower from the story&#10;从出生那年就飘着 | cong chu sheng na nian jiu piao zhe | Has drifted since the year it was born"
+                ></textarea>
+              </label>
+
+              <div class="builder-hint">
+                One lyric row per line. You can separate columns with `|` or tabs.
+                Download the result into <code>content/lyrics/</code>.
+              </div>
+
+              <div class="builder-actions">
+                <button id="builder-download" class="primary-button" type="button">
+                  Download JSON
+                </button>
+                <button id="builder-fill-sample" class="secondary-button" type="button">
+                  Fill Sample
+                </button>
+              </div>
+              <div id="builder-status" class="builder-status"></div>
+            </div>
+
+            <article class="info-card builder-preview-card">
+              <h3>Preview</h3>
+              <pre id="builder-preview"><code>{}</code></pre>
+            </article>
+          </div>
+        </section>
+
+        <section class="panel route-panel" data-route-panel="library" aria-labelledby="library-heading">
+          <div class="panel-header">
+            <div>
+              <p class="section-tag">Library</p>
+              <h2 id="library-heading">How to add study material</h2>
+            </div>
+          </div>
+
+          <div class="library-grid">
+            <article class="info-card">
+              <h3>Flashcards</h3>
+              <p>Create or update <code>data/flashcards.json</code>.</p>
+              <pre><code>{
+  "decks": [
+    {
+      "id": "deck-id",
+      "name": "Deck name",
+      "cards": [
+        {
+          "hanzi": "你好",
+          "pinyin": "ni hao",
+          "translation": "hello",
+          "notes": "optional"
+        }
+      ]
+    }
+  ]
+}</code></pre>
+            </article>
+
+            <article class="info-card">
+              <h3>Texts and Lyrics</h3>
+              <p>
+                Add lyrics as one file per song in <code>content/lyrics/</code> and
+                general readings in <code>content/texts/</code>.
+              </p>
+              <pre><code>{
+  "texts": [
+    {
+      "id": "song-id",
+      "title": "Title",
+      "description": "Optional",
+      "tags": ["lyrics"],
+      "lines": [
+        {
+          "hanzi": "月亮代表我的心",
+          "pinyin": "yue liang dai biao wo de xin",
+          "translation": "The moon represents my heart"
+        }
+      ]
+    }
+  ]
+}</code></pre>
+            </article>
+
+            <article class="info-card">
+              <h3>Dictionary</h3>
+              <p>Create or update <code>data/dictionary.json</code>.</p>
+              <pre><code>{
+  "entries": [
+    {
+      "traditional": "學習",
+      "simplified": "学习",
+      "pinyin": "xue xi",
+      "definitions": ["to learn", "to study"],
+      "hsk": 1
+    }
+  ]
+}</code></pre>
+            </article>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <div id="hover-glossary" class="hover-glossary" hidden></div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
