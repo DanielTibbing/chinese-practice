@@ -1,0 +1,32 @@
+{
+  "texts": [
+    {
+      "id": "moon-heart",
+      "title": "月亮代表我的心",
+      "description": "Sample lyric excerpt. Replace or extend this with your own song text.",
+      "tags": ["lyrics", "classic"],
+      "lines": [
+        {
+          "hanzi": "你问我爱你有多深",
+          "pinyin": "ni wen wo ai ni you duo shen",
+          "translation": "You ask me how deep my love for you is"
+        },
+        {
+          "hanzi": "我爱你有几分",
+          "pinyin": "wo ai ni you ji fen",
+          "translation": "How much I love you"
+        },
+        {
+          "hanzi": "我的情也真",
+          "pinyin": "wo de qing ye zhen",
+          "translation": "My feelings are true too"
+        },
+        {
+          "hanzi": "我的爱也真",
+          "pinyin": "wo de ai ye zhen",
+          "translation": "My love is true as well"
+        }
+      ]
+    }
+  ]
+}

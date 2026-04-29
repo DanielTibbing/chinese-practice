@@ -1,0 +1,81 @@
+{
+  "texts": [
+    {
+      "id": "li-shu-tong-song-bie",
+      "title": "送别",
+      "description": "Pu shu - Song bie",
+      "tags": [
+        "lyrics",
+        "mandarin",
+        "classic"
+      ],
+      "lines": [
+        {
+          "hanzi": "长亭外",
+          "pinyin": "chang ting wai",
+          "translation": "Outside the long pavilion"
+        },
+        {
+          "hanzi": "古道边",
+          "pinyin": "gu dao bian",
+          "translation": "Beside the ancient road"
+        },
+        {
+          "hanzi": "芳草碧连天",
+          "pinyin": "fang cao bi lian tian",
+          "translation": "Fragrant green grass stretches to the horizon"
+        },
+        {
+          "hanzi": "晚风拂柳笛声残",
+          "pinyin": "wan feng fu liu di sheng can",
+          "translation": "The evening breeze brushes willows, as the flute’s sound fades"
+        },
+        {
+          "hanzi": "夕阳山外山",
+          "pinyin": "xi yang shan wai shan",
+          "translation": "Beyond the mountains, the setting sun sinks"
+        },
+        {
+          "hanzi": "天之涯",
+          "pinyin": "tian zhi ya",
+          "translation": "At the edge of the sky"
+        },
+        {
+          "hanzi": "地之角",
+          "pinyin": "di zhi jiao",
+          "translation": "At the corner of the earth"
+        },
+        {
+          "hanzi": "知交半零落",
+          "pinyin": "zhi jiao ban ling luo",
+          "translation": "Half of my dear friends have drifted apart"
+        },
+        {
+          "hanzi": "一壶浊酒尽余欢",
+          "pinyin": "yi hu zhuo jiu jin yu huan",
+          "translation": "A pot of humble wine drains what little joy remains"
+        },
+        {
+          "hanzi": "今宵别梦寒",
+          "pinyin": "jin xiao bie meng han",
+          "translation": "Tonight, parting dreams feel cold"
+        },
+        {
+          "hanzi": "情千缕 酒一杯 声声喋喋催",
+          "pinyin": "qing qian lü jiu yi bei sheng sheng die die cui",
+          "translation": "A thousand threads of feeling, a cup of wine, words urging again and again"
+        },
+        {
+          "hanzi": "问君此去几时还",
+          "pinyin": "wen jun ci qu ji shi huan",
+          "translation": "I ask you, when will you return from this journey?"
+        },
+        {
+          "hanzi": "来时莫徘徊",
+          "pinyin": "lai shi mo pai huai",
+          "translation": "When you return, do not linger"
+        }
+      ]
+    }
+  ]
+}

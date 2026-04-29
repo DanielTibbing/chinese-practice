@@ -1,0 +1,27 @@
+{
+  "texts": [
+    {
+      "id": "mini-story",
+      "title": "咖啡店的小故事",
+      "description": "Short reading sample for sentence-by-sentence review.",
+      "tags": ["story", "beginner"],
+      "lines": [
+        {
+          "hanzi": "今天我去一家安静的咖啡店。",
+          "pinyin": "jin tian wo qu yi jia an jing de ka fei dian",
+          "translation": "Today I went to a quiet cafe."
+        },
+        {
+          "hanzi": "我一边听音乐，一边看中文书。",
+          "pinyin": "wo yi bian ting yin yue, yi bian kan zhong wen shu",
+          "translation": "I listened to music while reading a Chinese book."
+        },
+        {
+          "hanzi": "如果我不懂一个词，我就记下来做成卡片。",
+          "pinyin": "ru guo wo bu dong yi ge ci, wo jiu ji xia lai zuo cheng ka pian",
+          "translation": "If I do not understand a word, I write it down and turn it into a card."
+        }
+      ]
+    }
+  ]
+}

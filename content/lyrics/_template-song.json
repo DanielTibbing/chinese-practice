@@ -1,0 +1,22 @@
+{
+  "texts": [
+    {
+      "id": "replace-me-song",
+      "title": "Song Title",
+      "description": "Template file for adding new lyrics. Duplicate this file and fill it in.",
+      "tags": ["lyrics", "template"],
+      "lines": [
+        {
+          "hanzi": "第一行歌词",
+          "pinyin": "di yi hang ge ci",
+          "translation": "First lyric line"
+        },
+        {
+          "hanzi": "第二行歌词",
+          "pinyin": "di er hang ge ci",
+          "translation": "Second lyric line"
+        }
+      ]
+    }
+  ]
+}

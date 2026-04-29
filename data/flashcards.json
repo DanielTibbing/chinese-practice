@@ -1,0 +1,53 @@
+{
+  "decks": [
+    {
+      "id": "basics",
+      "name": "Daily Basics",
+      "cards": [
+        {
+          "hanzi": "你好",
+          "pinyin": "ni hao",
+          "translation": "hello",
+          "notes": "Common greeting."
+        },
+        {
+          "hanzi": "谢谢",
+          "pinyin": "xie xie",
+          "translation": "thank you",
+          "notes": "Often repeated twice in speech."
+        },
+        {
+          "hanzi": "再见",
+          "pinyin": "zai jian",
+          "translation": "goodbye"
+        },
+        {
+          "hanzi": "我喜欢中文",
+          "pinyin": "wo xi huan zhong wen",
+          "translation": "I like Chinese"
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "name": "Music Vocabulary",
+      "cards": [
+        {
+          "hanzi": "歌曲",
+          "pinyin": "ge qu",
+          "translation": "song"
+        },
+        {
+          "hanzi": "歌词",
+          "pinyin": "ge ci",
+          "translation": "lyrics"
+        },
+        {
+          "hanzi": "旋律",
+          "pinyin": "xuan lu",
+          "translation": "melody"
+        }
+      ]
+    }
+  ]
+}

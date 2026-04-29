@@ -1,0 +1,84 @@
+{
+  "entries": [
+    {
+      "traditional": "你好",
+      "simplified": "你好",
+      "pinyin": "ni hao",
+      "pinyinNumbered": "ni3 hao3",
+      "definitions": ["hello", "hi"],
+      "hsk": 1
+    },
+    {
+      "traditional": "謝謝",
+      "simplified": "谢谢",
+      "pinyin": "xie xie",
+      "pinyinNumbered": "xie4 xie4",
+      "definitions": ["thank you", "thanks"],
+      "hsk": 1
+    },
+    {
+      "traditional": "月亮",
+      "simplified": "月亮",
+      "pinyin": "yue liang",
+      "pinyinNumbered": "yue4 liang4",
+      "definitions": ["moon"],
+      "hsk": 2
+    },
+    {
+      "traditional": "代表",
+      "simplified": "代表",
+      "pinyin": "dai biao",
+      "pinyinNumbered": "dai4 biao3",
+      "definitions": ["to represent", "representative", "delegate"],
+      "hsk": 3
+    },
+    {
+      "traditional": "喜歡",
+      "simplified": "喜欢",
+      "pinyin": "xi huan",
+      "pinyinNumbered": "xi3 huan1",
+      "definitions": ["to like", "to be fond of"],
+      "hsk": 1
+    },
+    {
+      "traditional": "中文",
+      "simplified": "中文",
+      "pinyin": "zhong wen",
+      "pinyinNumbered": "zhong1 wen2",
+      "definitions": ["Chinese language"],
+      "hsk": 1
+    },
+    {
+      "traditional": "學習",
+      "simplified": "学习",
+      "pinyin": "xue xi",
+      "pinyinNumbered": "xue2 xi2",
+      "definitions": ["to learn", "to study"],
+      "hsk": 1
+    },
+    {
+      "traditional": "歌詞",
+      "simplified": "歌词",
+      "pinyin": "ge ci",
+      "pinyinNumbered": "ge1 ci2",
+      "definitions": ["song lyrics"],
+      "hsk": 4
+    },
+    {
+      "traditional": "旋律",
+      "simplified": "旋律",
+      "pinyin": "xuan lu",
+      "pinyinNumbered": "xuan2 lu",
+      "definitions": ["melody", "rhythm of things"],
+      "hsk": 6
+    },
+    {
+      "traditional": "咖啡店",
+      "simplified": "咖啡店",
+      "pinyin": "ka fei dian",
+      "pinyinNumbered": "ka1 fei1 dian4",
+      "definitions": ["coffee shop", "cafe"],
+      "hsk": 4
+    }
+  ]
+}

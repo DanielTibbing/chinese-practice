@@ -1,0 +1,131 @@
+{
+  "texts": [
+    {
+      "id": "zhao-lei-nan-fang-de-gu-niang",
+      "title": "南方姑娘",
+      "description": "Lyric entry with pinyin and English translation.",
+      "tags": [
+        "lyrics",
+        "mandarin",
+        "zhao lei"
+      ],
+      "lines": [
+        {
+          "hanzi": "北方的村莊住著一個南方的姑娘",
+          "pinyin": "bei fang de cun zhuang zhu zhe yi ge nan fang de gu niang",
+          "translation": "In a northern village lives a girl from the south"
+        },
+        {
+          "hanzi": "她總是喜歡穿著帶花的裙子站在路旁",
+          "pinyin": "ta zong shi xi huan chuan zhe dai hua de qun zi zhan zai lu pang",
+          "translation": "She always likes to stand by the roadside in a floral dress"
+        },
+        {
+          "hanzi": "她的話不多 但笑起來是那麼平靜優雅",
+          "pinyin": "ta de hua bu duo dan xiao qi lai shi na me ping jing you ya",
+          "translation": "She doesn’t speak much, but her smile is so calm and graceful"
+        },
+        {
+          "hanzi": "她柔弱的眼神裡裝的是什麼? 是思念的憂傷",
+          "pinyin": "ta rou ruo de yan shen li zhuang de shi shen me shi si nian de you shang",
+          "translation": "What is held in her gentle eyes? It is the sorrow of longing"
+        },
+        {
+          "hanzi": "南方的小鎮 陰雨的冬天沒有北方冷",
+          "pinyin": "nan fang de xiao zhen yin yu de dong tian mei you bei fang leng",
+          "translation": "In southern towns, the rainy winters are not as cold as in the north"
+        },
+        {
+          "hanzi": "她不需要臃腫的棉衣去遮蓋她似水的面容",
+          "pinyin": "ta bu xu yao yong zhong de mian yi qu zhe gai ta si shui de mian rong",
+          "translation": "She doesn’t need heavy padded clothes to cover her water-like face"
+        },
+        {
+          "hanzi": "她在來去的街頭留下影子 芳香在回眸人的心頭",
+          "pinyin": "ta zai lai qu de jie tou liu xia ying zi fang xiang zai hui mou ren de xin tou",
+          "translation": "She leaves her shadow in the passing streets, her fragrance lingering in hearts that look back"
+        },
+        {
+          "hanzi": "眨眼的時間 芳香已飄散 影子已不見",
+          "pinyin": "zha yan de shi jian fang xiang yi piao san ying zi yi bu jian",
+          "translation": "In the blink of an eye, the fragrance has drifted away and her shadow is gone"
+        },
+        {
+          "hanzi": "南方姑娘 你是否習慣北方的秋涼?",
+          "pinyin": "nan fang gu niang ni shi fou xi guan bei fang de qiu liang",
+          "translation": "Southern girl, have you gotten used to the cool autumn of the north?"
+        },
+        {
+          "hanzi": "南方姑娘 你是否喜歡北方人的直爽?",
+          "pinyin": "nan fang gu niang ni shi fou xi huan bei fang ren de zhi shuang",
+          "translation": "Southern girl, do you like the straightforwardness of northern people?"
+        },
+        {
+          "hanzi": "日子過的就像那些不眠的晚上",
+          "pinyin": "ri zi guo de jiu xiang na xie bu mian de wan shang",
+          "translation": "Days pass like those sleepless nights"
+        },
+        {
+          "hanzi": "她嚼著口香糖 對牆滿談著理想 耶",
+          "pinyin": "ta jiao zhe kou xiang tang dui qiang man tan zhe li xiang ye",
+          "translation": "She chews gum, talking endlessly to the wall about her dreams, yeah"
+        },
+        {
+          "hanzi": "南方姑娘 我們都在忍受著漫長",
+          "pinyin": "nan fang gu niang wo men dou zai ren shou zhe man chang",
+          "translation": "Southern girl, we are all enduring the long stretch of time"
+        },
+        {
+          "hanzi": "南方姑娘 是不是高樓遮住了你的希望? 誒嘿",
+          "pinyin": "nan fang gu niang shi bu shi gao lou zhe zhu le ni de xi wang ei hei",
+          "translation": "Southern girl, have the tall buildings blocked your hopes?"
+        },
+        {
+          "hanzi": "昨日的雨曾淋漓過她瘦弱的肩膀",
+          "pinyin": "zuo ri de yu ceng lin li guo ta shou ruo de jian bang",
+          "translation": "Yesterday’s rain once drenched her frail shoulders"
+        },
+        {
+          "hanzi": "夜空的北斗也沒有讓她找到迷途的方向",
+          "pinyin": "ye kong de bei dou ye mei you rang ta zhao dao mi tu de fang xiang",
+          "translation": "Even the Big Dipper in the night sky couldn’t guide her lost way"
+        },
+        {
+          "hanzi": "陽光裡 她在院子中央晾曬著衣裳",
+          "pinyin": "yang guang li ta zai yuan zi zhong yang liang shai zhe yi shang",
+          "translation": "In the sunlight, she hangs clothes out to dry in the middle of the yard"
+        },
+        {
+          "hanzi": "在四季的風中 她散著頭髮安慰著時光",
+          "pinyin": "zai si ji de feng zhong ta san zhe tou fa an wei zhe shi guang",
+          "translation": "In the winds of all seasons, her loose hair seems to comfort time itself"
+        },
+        {
+          "hanzi": "南方姑娘 你是否愛上了北方?",
+          "pinyin": "nan fang gu niang ni shi fou ai shang le bei fang",
+          "translation": "Southern girl, have you fallen in love with the north?"
+        },
+        {
+          "hanzi": "南方姑娘 你說今天你就要回到你的家鄉?",
+          "pinyin": "nan fang gu niang ni shuo jin tian ni jiu yao hui dao ni de jia xiang",
+          "translation": "Southern girl, you said you’re going back to your hometown today?"
+        },
+        {
+          "hanzi": "思念讓人心傷 她呼喚著你的淚光",
+          "pinyin": "si nian rang ren xin shang ta hu huan zhe ni de lei guang",
+          "translation": "Longing breaks the heart, calling out the tears in your eyes"
+        },
+        {
+          "hanzi": "南方的果子已熟 那是最簡單的理想 耶嘿",
+          "pinyin": "nan fang de guo zi yi shu na shi zui jian dan de li xiang ye hei",
+          "translation": "The fruits in the south are ripe—that is the simplest dream, yeah hey"
+        },
+        {
+          "hanzi": "南方",
+          "pinyin": "nan fang",
+          "translation": "The south"
+        }
+      ]
+    }
+  ]
+}
