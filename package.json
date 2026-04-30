@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "node ./scripts/build.mjs",
-    "serve:dist": "python3 -m http.server 4173 -d dist"
+    "serve:dist": "python3 -m http.server 4173 -d dist",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
